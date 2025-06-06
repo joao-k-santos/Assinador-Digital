@@ -1,0 +1,9 @@
+# Ignora o ambiente virtual do python
+venv/
+# Ignora arquivos de cache
+__pycache__/
+.vscode/
+# Ignora o arquivo pdf do trabalho
+ENE0090-2025-1-Trab3.pdf
+# Ignora arquivos .txt
+*.txt
